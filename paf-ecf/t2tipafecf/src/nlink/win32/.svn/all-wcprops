@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32
+END
+Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32/Wrapper.java
+END
+DllClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nlink~svn/!svn/ver/8/trunk/nlink/runtime/src/nlink/win32/DllClass.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nlink~svn/!svn/ver/8/trunk/nlink/runtime/src/nlink/win32/package-info.java
+END
+Native.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32/Native.java
+END
+CheckLastError.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32/CheckLastError.java
+END
+NLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32/NLink.java
+END
+DllMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nlink~svn/!svn/ver/21/trunk/nlink/runtime/src/nlink/win32/DllMethod.java
+END
+Win32NLinkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nlink~svn/!svn/ver/27/trunk/nlink/runtime/src/nlink/win32/Win32NLinkException.java
+END

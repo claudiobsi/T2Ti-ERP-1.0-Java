@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><procEventoNFe xmlns="http://www.portalfiscal.inf.br/nfe" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" versao="1.00"><evento versao="1.00"><infEvento Id="ID1101115313081079311800017855001000000015100000015601"><cOrgao>53</cOrgao><tpAmb>2</tpAmb><CNPJ>10793118000178</CNPJ><chNFe>53130810793118000178550010000000151000000156</chNFe><dhEvento>2013-08-28T18:33:33-03:00</dhEvento><tpEvento>110111</tpEvento><nSeqEvento>1</nSeqEvento><verEvento>1.00</verEvento><detEvento versao="1.00"><descEvento>Cancelamento</descEvento><nProt>353130000098906</nProt><xJust>teste de cancelamento</xJust></detEvento></infEvento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#ID1101115313081079311800017855001000000015100000015601"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>usfSIRcmOUK1uQAHmI8TP3lcV2Q=</DigestValue></Reference></SignedInfo><SignatureValue>Qwyr8dCLgeGcmx2lz3sJGfhyiANrEFXzdLSq4pZgkjAe2BRkj5h6eVCAaqGnPxpfpSIzWJNochnw
+CISWw6de8eHL0N6KkYSE/kT7higz/JOsrdjZ0ZU/+zPJHUNlqTR9ukEBdfCKZMKOQpMkyLXsvnkY
+1FB8MlmwWEG7X0FcVynHbYQh18d1TAPIouf1pxRyjB+bF0P6WOLGI3KBMGJFwf27ZPrlgTZPEUXm
+cwBz8kw65zZ0MWV45AuJjxQmYWlirt5Q2z6WKsQKGqAdgJSemumsF15mPjG4o+m3tvS0RTsW+def
+MrUxUupfFzlKn0+RQZ9zbijIDNFQk5/OsnpfxQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHIDCCBQigAwIBAgIIRK0bTjvyd8kwDQYJKoZIhvcNAQELBQAwXTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxIDAeBgNVBAsMF0NhaXhhIEVjb25vbWljYSBGZWRlcmFsMRcwFQYD
+VQQDDA5BQyBDQUlYQSBQSiB2MjAeFw0xMzA0MjkyMTMzNDFaFw0xNjA0MjgyMTMzNDFaMIGbMQsw
+CQYDVQQGEwJCUjETMBEGA1UECgwKSUNQLUJyYXNpbDEgMB4GA1UECwwXQ2FpeGEgRWNvbm9taWNh
+IEZlZGVyYWwxFzAVBgNVBAsMDkFDIENBSVhBIFBKIHYyMTwwOgYDVQQDDDNUMlRJIFRFQ05PTE9H
+SUEgREEgSU5GT1JNQUNBTyBMVERBIC0gTUU6NjEzNjM5NDQzMDQwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCkXd1RAE3Vl2YXXYfRlq2AycqdOlsWe6BX8cXrMgwireGYiJ+RN3ybM1qC
+2AXkrgYz422bKo3k0Pa9YMR7jIDGoUiiWDQLuK/5LUoVIscKqvpnNSHxC4zd/9mLsfSimfxd0K41
+NpvTFLoDgvp8rs6Jdri0O4FnPzJ42FljUxOOTz0ApS/3yWq0Uhzg9YUFmk8SvQ/Z4Q9avH5jfmUL
+Gx+s1yUVtpiiV4BkpaRVawPt475dbauHn5jfqFtIx4nNto4ZyCIbKD+ojUE5b9qUCLV0SPk4oos9
+UOEeQYL0dZjt3Bup89AUCoD7+NSTe4PAsBhNUUvucSNZxAiexGgR/jYRAgMBAAGjggKjMIICnzAO
+BgNVHQ8BAf8EBAMCBeAwKQYDVR0lBCIwIAYIKwYBBQUHAwIGCCsGAQUFBwMEBgorBgEEAYI3FAIC
+MB0GA1UdDgQWBBSdLuUggLTH5zexhnh48UTet2xmQjAfBgNVHSMEGDAWgBRPTQ0BnGpp23AJpN4z
+rvZ8kp41wjCBpQYDVR0RBIGdMIGaoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMKA+BgVgTAEDBKA1
+BDMyMjA0MTk3NzYxMzYzOTQ0MzA0MDAwMDAwMDAwMDAwMDAwMDM0MDY0NDA3NzlERVRSREagGQYF
+YEwBAwOgEAQOMTA3OTMxMTgwMDAxNzigJAYFYEwBAwKgGwQZQUxCRVJUIEVJSkUgQkFSUkVUTyBN
+T1VUQTBmBgNVHSAEXzBdMFsGBmBMAQIDCTBRME8GCCsGAQUFBwIBFkNodHRwOi8vY2VydGlmaWNh
+ZG9kaWdpdGFsLmNhaXhhLmdvdi5ici9kb2N1bWVudG9zL2RwY2FjLWNhaXhhcGoucGRmMIG5BgNV
+HR8EgbEwga4wLaAroCmGJ2h0dHA6Ly9sY3IuY2FpeGEuZ292LmJyL2FjY2FpeGFwanYyLmNybDAu
+oCygKoYoaHR0cDovL2xjcjIuY2FpeGEuZ292LmJyL2FjY2FpeGFwanYyLmNybDBNoEugSYZHaHR0
+cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0NBSVhBL0FDQ0FJWEFQSi9hY2Nh
+aXhhcGp2Mi5jcmwwVgYIKwYBBQUHAQEESjBIMEYGCCsGAQUFBzAChjpodHRwOi8vY2VydGlmaWNh
+ZG9kaWdpdGFsLmNhaXhhLmdvdi5ici9haWEvYWNjYWl4YXBqdjIucDdiMA0GCSqGSIb3DQEBCwUA
+A4ICAQAwhgoAGAFly0PWJxuLEPTE40Hcod+lcn95LdM8Tde+LGtq7ZjjteEo/Rl3OVOEgwPuxcfp
+EZOiD+9hG6Oit3rrcfeNb8Wm+58hFxj9S+D1Z+HNuBMWjZRyYNxf85v7JNNLki5BsJq4SW1d1JLH
+m7Tg709k6xRfshQbevhgIEgrshqfTX87fF6By1zmt0mlOYSh2gZdtmOKPgaBJYBE9zsZ++6tDrv4
+J7GCy9O81W815fkW1e95iIhKt8dqQg+8Wf0vaSkc2zy4ghWzsRuV5boDrQYZH5U+rEsdoC+/IcZM
+dDd+JA0WVLDl7MAoRoflkN7WN6nyLDuXClIICBmNQOSQkCD7m6yXhnMX6dNSmG6qhT0b9zhIz8el
+FUNZx8zBc467lIaXmvZh33cHNs8Cd2AFj1xtqRNNpM8VBl0sRWH7f0LaFMdGHAFdhXkZAeBF8hHl
+HtSNNPqwYoKUrRBP6RQJEWDPXWzUZ9hpoVMFNKgECtG03ycrDHt92D4sH0AoT0Mdb8Io5ElpCk+M
+O4jLJihBU5W+OoyUs+BAc2qk1YDMKWgTaq70AKgis6FUt88UzSCi/NbXdzrTpDEpe+zJaODPikIh
+cSruFutufCCpRBWNf8xf73gNjZ0HLy0oqp6UA+WzFRtb0E3QghOumKgNoU6Z6e8WPeNOWYeG+RFm
+brrnWg==</X509Certificate></X509Data></KeyInfo></Signature></evento><retEvento versao="1.00"><infEvento Id="ID353130000098907"><tpAmb>2</tpAmb><verAplic>SVRS20120906120553</verAplic><cOrgao>53</cOrgao><cStat>135</cStat><xMotivo>Evento registrado e vinculado a NF-e</xMotivo><chNFe>53130810793118000178550010000000151000000156</chNFe><tpEvento>110111</tpEvento><nSeqEvento>1</nSeqEvento><CNPJDest>00000000000191</CNPJDest><dhRegEvento>2013-08-28T18:33:41-03:00</dhRegEvento><nProt>353130000098907</nProt></infEvento></retEvento></procEventoNFe>

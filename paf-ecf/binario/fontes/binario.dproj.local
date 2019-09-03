@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/10/28 17:06:56.622.dproj,C:\Documents and Settings\Eije\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\binario.dproj</Transaction>
+    <Transaction>2010/10/28 17:12:12.951.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Sintegra60MVO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.001.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Sintegra60DVO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.051.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Sintegra60AVO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.081.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R07VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.101.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R06VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.131.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R05VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.151.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R04VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.171.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R03VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:12:13.191.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\R02VO.pas=</Transaction>
+    <Transaction>2010/10/28 17:20:04.916.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\TotalTipoPagamentoController.pas=</Transaction>
+    <Transaction>2010/10/28 17:42:35.833.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\PreVendaController.pas=</Transaction>
+    <Transaction>2010/10/28 17:43:30.242.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\VendaController.pas=</Transaction>
+    <Transaction>2010/10/28 17:52:34.481.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\CaixaController.pas=</Transaction>
+    <Transaction>2010/10/28 17:53:00.278.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\ClienteController.pas=</Transaction>
+    <Transaction>2010/10/28 17:53:12.055.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\ConfiguracaoController.pas=</Transaction>
+    <Transaction>2010/10/28 17:54:03.398.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\MovimentoController.pas=</Transaction>
+    <Transaction>2010/10/28 17:54:34.757.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\OperadorController.pas=</Transaction>
+    <Transaction>2010/10/28 17:57:17.156.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\Controller\VendedorController.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.091.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ConfiguracaoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.142.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ClienteVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.192.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ChequeClienteVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.252.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\CFOPVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.302.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\CaixaVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:05:36.352.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\BancoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:06:03.200.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ContatoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:06:03.250.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ContatoTelefoneVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:06:03.311.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ContatoEmailVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.552.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\VendaDetalheVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.632.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\VendaCabecalhoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.672.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\TurnoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.722.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\TipoTelefoneVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.762.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\TipoEmailVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.812.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ResolucaoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.852.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\RecebimentoNaoFiscalVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.912.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\ProdutoPromocaoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:42.962.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\PreVendaVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:43.022.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\PreVendaDetalheVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:43.072.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\PosicaoComponentesVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:43.122.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\MovimentoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:43.173.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\FichaTecnicaVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:07:43.233.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\EnderecoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:08:59.158.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\DAVDetalheVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:09:26.688.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\DocumentosEmitidosVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:09:42.701.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\FuncionarioVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:10:14.957.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\OperadorVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:13:01.748.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\SangriaVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:13:20.976.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\SuprimentoVO.pas=</Transaction>
+    <Transaction>2010/10/28 18:13:46.944.pas,C:\Documents and Settings\Eije\Desktop\T2Ti ERP - PAF-ECF Java 02\t2tipafecf\binario\VO\TributoProdutoVO.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

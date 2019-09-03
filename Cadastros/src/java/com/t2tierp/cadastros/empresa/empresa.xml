@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa>
+    <tabelas>
+        <tabela>
+            <nome>fin_tipo_pagamento</nome>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>01</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Dinheiro</valor2>
+            </dados>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>02</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Cheque</valor2>
+            </dados>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>03</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Cartao</valor2>
+            </dados>
+        </tabela>
+        <tabela>
+            <nome>fin_tipo_recebimento</nome>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>01</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Dinheiro</valor2>
+            </dados>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>02</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Cheque</valor2>
+            </dados>
+            <dados>
+                <campo1>tipo</campo1>
+                <valor1>03</valor1>
+                <campo2>descricao</campo2>
+                <valor2>Cartao</valor2>
+            </dados>
+        </tabela>
+    </tabelas>
+</empresa>

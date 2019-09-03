@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="empresa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tabelas"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tabelas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="tabela"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tabela">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nome"/>
+        <xs:element maxOccurs="unbounded" ref="dados"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nome" type="xs:NCName"/>
+  <xs:element name="dados">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="campo1"/>
+        <xs:element ref="valor1"/>
+        <xs:element ref="campo2"/>
+        <xs:element ref="valor2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="campo1" type="xs:NCName"/>
+  <xs:element name="valor1" type="xs:NCName"/>
+  <xs:element name="campo2" type="xs:NCName"/>
+  <xs:element name="valor2" type="xs:NCName"/>
+</xs:schema>
